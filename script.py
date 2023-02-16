@@ -66,6 +66,6 @@ if __name__ == "__main__":
     i = 0
     while True:
         i += 1
-		if i % 5 == 0:
-        	print(i)
+        if i % 5 == 0:
+            print(i)
         main()
